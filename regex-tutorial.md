@@ -1,4 +1,4 @@
-RegEx Tutorial
+## RegEx Tutorial for Email addresses
 
 RegEx or Regular Expressions is an extremely useful and efficient method of searching and extracting certain patterns out of any text.
 This can be used as a tool to 'flag' certain words, numbers or expressions or to code for email address recognition, url and more. 
